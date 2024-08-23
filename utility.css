@@ -1,16 +1,16 @@
-.border{
+.border {
     border: 2px solid red;
     margin: 3px;
 }
 
-.flex{
+.flex {
     display: flex;
 }
 
-.justify-center{
+.justify-center {
     justify-content: center;
 }
 
-.items-center{
+.items-center {
     align-items: center;
 }
